@@ -1,0 +1,14 @@
+{
+  "certificate": {
+    "course_name": "Introduction to Data Science",
+    "organization": "Acme Academy",
+    "issued_on": "2026-10-06",
+    "signatory": "Dr. A. Kumar"
+  },
+  "recipients": [
+    {"name": "Asha Verma", "email": "asha@example.com", "achievement": "With Distinction"},
+    {"name": "Rahul Singh"},
+    {"name": "", "email": "blank-name@example.com"},
+    {"name": "Meera Nair", "email": "not-an-email"}
+  ]
+}
